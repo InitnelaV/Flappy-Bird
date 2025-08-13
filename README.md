@@ -1,4 +1,4 @@
-The first version Fallpy.py contains the skeleton with the main plot
+The first version Flappy.py contains the skeleton with the main plot
 
 The play loop contains a yellow square for the bird and green rectangles for the pipes
 
